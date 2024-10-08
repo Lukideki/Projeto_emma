@@ -1,0 +1,82 @@
+* {
+    font-family: 'Trebuchet MS';
+
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    /* Uma fonte popular e moderna */
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #444;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.text {
+    text-align: center;
+}
+
+.rio {
+    text-align: center;
+}
+
+.turismo {
+    text-align: center;
+}
+
+.text_img {
+    text-align: center;
+}
+
+.luki {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+}
+
+.aldeia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
